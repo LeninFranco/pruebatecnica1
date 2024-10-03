@@ -12,10 +12,15 @@ Este proyecto es una prueba técnica para un desarrollador backend junior, imple
 ## Configuración del Proyecto
 
 1. Clona el repositorio:
+    ```bash
     git clone 
     cd pruebatecnica1
 
-2. Ejecuta el proyecto Spring-Boot
+2. Instalar las dependencias de Maven
+    ```bash
+    mvn install
+    mvn spring-boot:run
+
 
 ## Acceder al endpoint
 Una vez que la aplicación se esté ejecutando, puedes acceder al endpoint para obtener la lista de usuarios:
