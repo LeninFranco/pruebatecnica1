@@ -25,7 +25,7 @@ Este proyecto es una prueba técnica para un desarrollador backend junior, imple
 ## Acceder al endpoint
 Una vez que la aplicación se esté ejecutando, puedes acceder al endpoint para obtener la lista de usuarios:
 
-GET http://localhost:8080/api/users
+GET http://localhost:8080/api/v1/users
 
 ## Implementación de Caché
 
